@@ -75,7 +75,7 @@ source .ragvenv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Run streamlit on localhost
+### Step 2: Run streamlit on localhost
 
 ```bash
 streamlit run chatbot_RAG.py
