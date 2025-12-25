@@ -1,5 +1,4 @@
-# pip install streamlit pypdf2 langchain faiss-cpu openai langchain_community tiktoken
-#streamlit run ./chatbotv1/chatbot1.py
+
 
 import streamlit as st
 from PyPDF2 import PdfReader
