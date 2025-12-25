@@ -72,10 +72,15 @@ Using `venv`:
 ```bash
 python3 -m venv .ragvenv
 source .ragvenv/bin/activate
+```
+
+### Step 2: Install requirements
+
+```bash 
 pip install -r requirements.txt
 ```
 
-### Step 2: Run streamlit on localhost
+### Step 3: Run streamlit on localhost
 
 ```bash
 streamlit run chatbot_RAG.py
