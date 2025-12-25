@@ -78,5 +78,5 @@ pip install -r requirements.txt
 ### Run streamlit on localhost
 
 ```bash
-streamlit run chatbot2.py
+streamlit run chatbot_RAG.py
 ```
