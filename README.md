@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="/Users/millatina/Documents/MU/Agentic AI/Assignments/RAG/Retrieval_Augmented_Generation_RAG/assets/Screenshot 2025-12-25 at 4.09.10 pm.png" alt="Watch the demo" width="800"/><br/>
+  <img src="/Users/millatina/Documents/MU/Agentic AI/Assignments/RAG/Retrieval_Augmented_Generation_RAG/assets/Screenshot 2025-12-25 at 4.09.10 pm.png" width="800"/><br/>
   <em>Demo: RAG Chatbot </em>
 </p>
 
