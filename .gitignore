@@ -1,0 +1,6 @@
+.ragvenv
+*.ragvenv
+.env
+*.env
+chatbot1.py
+chatbot1 copy.py
